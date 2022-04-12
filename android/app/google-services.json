@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "972090815771",
+    "project_id": "fir-project-979c0",
+    "storage_bucket": "fir-project-979c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972090815771:android:b443983121430df1ef0fbe",
+        "android_client_info": {
+          "package_name": "com.example.venatus_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972090815771-tstuh9auda03jplkgr5o59ccurjpo86v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNJ5HtiPwu4ZnB39SCzLZ26p6cds75CIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972090815771-tstuh9auda03jplkgr5o59ccurjpo86v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
